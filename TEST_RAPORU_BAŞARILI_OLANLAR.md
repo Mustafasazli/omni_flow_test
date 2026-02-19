@@ -13,3 +13,9 @@
 9. Metni Özetle(Open Router)
 10. Data Helper
 11. Google Calendar
+12. AgentX
+13. Aidbase
+14. Airparser
+15. Airtable
+16. Gitlab
+17. Schedule
